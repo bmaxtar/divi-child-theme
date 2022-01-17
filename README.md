@@ -1,5 +1,5 @@
 # divi-child-theme
-# Contributors: Mamadou Moctar BA
+Contributors: Mamadou Moctar BA
 Tags: divi theme, elegant themes
 Requires at least: 3.0
 Tested up to: 4.4
